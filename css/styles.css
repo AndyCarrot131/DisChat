@@ -1,0 +1,117 @@
+
+      .background {
+          width: 750px;
+          height: 850px;
+          border: 1px solid blue;
+          margin: 0px auto 0;
+          background: #f9f9f9;
+      }
+      
+      .background p {
+          font-size: 15px;
+          color: blue;
+      }
+      
+      .background h1 {
+          text-align: center;
+      }
+      
+      .display_field {
+          width: 580px;
+          height: 420px;
+          border: 1px solid red;
+          background: #fff;
+          margin: 10px auto 0;
+          overflow: auto;
+      }
+      
+      .input_div {
+          width: 580px;
+          margin: 10px auto 0;
+          border: 1px solid yellow;
+      }
+      
+      .set_side {
+          width: 80px;
+          height: 30px;
+          float: left;
+          outline: none;
+      }
+      
+      .input_field {
+          width: 500px;
+          height: 180px;
+          padding: 0px;
+          float: left;
+          margin-left: 10px;
+          outline: none;
+          text-indent: 10px;
+          border: 1px solid red;
+      }
+      
+      .sub_button {
+          width: 56px;
+          height: 30px;
+          float: left;
+          margin-left: 10px;
+          background: red;
+          border: none;
+          color: #fff;
+          border-radius: 20px;
+          cursor: pointer;
+      }
+      
+      .leftmsg {
+          margin: 10px;
+      }
+      
+      
+      .leftmsg span {
+          display: inline-block;
+          background: #0181cc;
+          border-radius: 5px;
+          color: #fff;
+          /*padding: 5px 5px;*/
+          max-width: 200px;
+          white-space: pre-wrap;
+          text-align: left;
+      }
+      .leftmsg p{
+          margin-left: 20px;
+          border-left: 20px;
+      }
+
+
+      .rightmessage{
+          margin-left: 20px;
+          border-left: 20px;
+      }
+
+
+     
+
+
+      .rightmsg {
+          margin: 10px;
+          text-align: right;
+      }
+      
+      
+      .rightmsg span {
+          display: inline-block;
+          background: grey;
+          border-radius: 5px;
+          color: #fff;
+          padding: 5px 10px;
+          max-width: 200px;
+          white-space: pre-wrap;
+          text-align: left;
+      }
+
+
+        #name{
+            position: absolute;
+                right: 0px;
+            
+        }
+
